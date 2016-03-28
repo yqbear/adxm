@@ -22,7 +22,7 @@ It has the following features:
   - Does not depend on other tools, such as MSYS, GMSL, Perl etc.
   - Can auto-detect build the platform, including 64 and 32 bit architectures.
   - Provides release and debug targets, and a comprehensive range of build goals.
-  - Supports Windows resouce compilation using "windres".
+  - Supports Windows resource compilation using "windres".
   - Pre-build, post-build, distribution and install steps.
 
 Source and build directories are expected to reside relative to the makefile,
